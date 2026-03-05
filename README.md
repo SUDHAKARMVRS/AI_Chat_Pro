@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-03-05 214548" src="https://github.com/user-attachments/assets/5837bf70-ae75-401e-b584-b14b78ad0cb7" /># 🤖 AI Chat Pro
+# 🤖 AI Chat Pro
 
 AI Chat Pro is a modern, interactive chat application built with **Streamlit** that lets you chat with an AI assistant in real-time. It supports multiple chat sessions, code rendering, and tracks response times from start to finish.
 
